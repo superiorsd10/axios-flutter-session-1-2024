@@ -1,4 +1,4 @@
-# axios_flutter_sj_session_1
+# axios-flutter-session-1-2024
 
 A new Flutter project.
 
